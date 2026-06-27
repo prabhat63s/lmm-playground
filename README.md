@@ -1,4 +1,4 @@
-# Multi LMM Playground
+# LMM Playground
 
 ## Project Overview
 The **Multi LMM Playground** is an innovative web application built using **Next.js** and **TypeScript**, designed to explore and evaluate large language models (LMMs). This platform allows users to interact with various AI models, analyze their inference times, and estimate their associated costs. By integrating with **Hugging Face APIs**, the Multi LMM Playground empowers developers to test and compare AI models seamlessly, ensuring they can select the most suitable models for their use cases.
